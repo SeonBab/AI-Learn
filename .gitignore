@@ -6,3 +6,6 @@ Release/
 *.suo
 *.VC.db
 *.opendb
+*.obj
+$null
+save.txt
